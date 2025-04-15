@@ -22,7 +22,7 @@ A powerful application for processing panoramic images with missing sky areas, f
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Dan-445/sky-fill-pro-360.git
+git clone https://github.com/Dan-445/sky-fill-pro.git
 cd sky-fill-pro-360
 ```
 
